@@ -1,7 +1,7 @@
 # Parallel matrix multiplication
-Task 1: Implement a parallel version of blocked matrix multiplication by OpenMP
-Task 2: Implement SUMMA algorithm by MPI
-Task 3: Implement Cannon’s algorithm by MPI
+Task 1: Implement a parallel version of blocked matrix multiplication by OpenMP.<br>
+Task 2: Implement SUMMA algorithm by MPI.<br>
+Task 3: Implement Cannon’s algorithm by MPI.
 
 
 Each task have two variants of implementation.
